@@ -1,6 +1,6 @@
-### WARNING <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/832px-Warning.svg.png" width="80" height="80" />
+### WARNING 
 
-This tool is made for Educational Purposes Only, I am not responsible for your actions
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/832px-Warning.svg.png" width="70" height="70" /> This tool is made for Educational Purposes Only, I am not responsible for your actions
 
 
 ### Features
