@@ -1,5 +1,5 @@
 ### WARNING
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/832px-Warning.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Warning.svg/832px-Warning.svg.png" width="200" height="200" />
 This tool is made for Educational Purposes Only, I am not responsible for your actions
 
 
