@@ -31,3 +31,5 @@ $ bash main.sh
 
 
 Thanks for Reading!
+
+Good Bye!
