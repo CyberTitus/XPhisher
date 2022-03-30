@@ -28,8 +28,3 @@ $ bash main.sh
 - `wget`
 - `curl`
 - `git`
-
-
-Thanks for Reading!
-
-Good Bye!
